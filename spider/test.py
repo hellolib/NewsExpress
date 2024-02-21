@@ -1,4 +1,4 @@
-from pyhanlp import *
+from pyhanlp import HanLP
 
 document = """
 新春伊始，衢州这家新材料企业的二期厂房正加紧建设。得益于当地在资金、人才引进等方面的支持，企业初创仅两年，研发就迈上新台阶，产值破亿元。
